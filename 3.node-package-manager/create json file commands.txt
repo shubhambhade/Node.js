@@ -1,0 +1,11 @@
+1st way : 
+npm init 
+
+2nd  way:
+npm init -y 
+
+//install the packages
+npm install package_name ,-----------,package_name_N
+npm uninstall package_name
+npm update package_name
+
